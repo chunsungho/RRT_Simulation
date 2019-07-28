@@ -1,0 +1,22 @@
+﻿  hybrid_Astar_rrt.cpp
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(61): warning C4244: '=': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(62): warning C4244: '=': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(117): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(124): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(125): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(147): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(172): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(190): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsh\source\repos\rrt_simulation\rrt_simulation\hybrid_astar_rrt.cpp(234): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  obstacle.cpp
+  코드를 생성하고 있습니다...
+  RRT_simulation.vcxproj -> C:\Users\JSH\source\repos\RRT_simulation\x64\Debug\RRT_simulation.exe
